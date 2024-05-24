@@ -1,0 +1,11 @@
+acc_x: Accelerometer X-axis reading (unit: g)
+acc_y: Accelerometer Y-axis reading (unit: g)
+acc_z: Accelerometer Z-axis reading (unit: g)
+hr: Heart rate (unit: beats per minute)
+temp: Skin temperature (unit: degrees Celsius)
+eda: Electrodermal activity (unit: microsiemens)
+bvp: Blood volume pulse (unit: arbitrary units)
+time: Timestamp of the data point (format: YYYY-MM-DD HH:MM:SS)
+trialcode: Identifier for the trial type or condition
+response: participant's response to "How often did you think about the scene?" (0 = never, 1 = briefly, 2 = often)
+intrusion: Indicator variable for intrusion events (1 = intrusion, 0 = no intrusion)
